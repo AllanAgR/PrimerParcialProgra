@@ -1,0 +1,15 @@
+C:\Users\AGUILAR\Desktop\Parcial\Horoscopo\Horoscopo\bin\Debug\net6.0\Horoscopo.exe
+C:\Users\AGUILAR\Desktop\Parcial\Horoscopo\Horoscopo\bin\Debug\net6.0\Horoscopo.deps.json
+C:\Users\AGUILAR\Desktop\Parcial\Horoscopo\Horoscopo\bin\Debug\net6.0\Horoscopo.runtimeconfig.json
+C:\Users\AGUILAR\Desktop\Parcial\Horoscopo\Horoscopo\bin\Debug\net6.0\Horoscopo.dll
+C:\Users\AGUILAR\Desktop\Parcial\Horoscopo\Horoscopo\bin\Debug\net6.0\Horoscopo.pdb
+C:\Users\AGUILAR\Desktop\Parcial\Horoscopo\Horoscopo\obj\Debug\net6.0\Horoscopo.csproj.AssemblyReference.cache
+C:\Users\AGUILAR\Desktop\Parcial\Horoscopo\Horoscopo\obj\Debug\net6.0\Horoscopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGUILAR\Desktop\Parcial\Horoscopo\Horoscopo\obj\Debug\net6.0\Horoscopo.AssemblyInfoInputs.cache
+C:\Users\AGUILAR\Desktop\Parcial\Horoscopo\Horoscopo\obj\Debug\net6.0\Horoscopo.AssemblyInfo.cs
+C:\Users\AGUILAR\Desktop\Parcial\Horoscopo\Horoscopo\obj\Debug\net6.0\Horoscopo.csproj.CoreCompileInputs.cache
+C:\Users\AGUILAR\Desktop\Parcial\Horoscopo\Horoscopo\obj\Debug\net6.0\Horoscopo.dll
+C:\Users\AGUILAR\Desktop\Parcial\Horoscopo\Horoscopo\obj\Debug\net6.0\refint\Horoscopo.dll
+C:\Users\AGUILAR\Desktop\Parcial\Horoscopo\Horoscopo\obj\Debug\net6.0\Horoscopo.pdb
+C:\Users\AGUILAR\Desktop\Parcial\Horoscopo\Horoscopo\obj\Debug\net6.0\Horoscopo.genruntimeconfig.cache
+C:\Users\AGUILAR\Desktop\Parcial\Horoscopo\Horoscopo\obj\Debug\net6.0\ref\Horoscopo.dll
